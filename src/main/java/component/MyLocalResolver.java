@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.util.Locale;
 
-//配置国际化视图解析器
+//配置国际化视图解析萨达
 public class MyLocalResolver implements LocaleResolver
 {
     @Override
